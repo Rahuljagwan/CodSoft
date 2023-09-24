@@ -1,0 +1,12 @@
+1. In /admin
+   username:rahul
+   password:admin
+
+use to check the details of customers who filled the contact us form
+
+
+2. Made using Django and Html and Css and with help of BOOTSTRAP 
+
+3. run it in terminal(of vs code)using command:
+  
+   python manage.py runserver
